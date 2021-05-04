@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "haroon",
+    "city" : "scotland",
+    "number" : "1234567"
+  },
+  {
+    "name" : "Amir",
+    "city" : "london",
+    "number" : "432"
+  },
+  {
+    "name" : "bbc",
+    "city" : "manchester",
+    "number" : "1234123123567"
+  }
+]
